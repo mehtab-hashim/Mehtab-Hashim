@@ -57,22 +57,9 @@ Computer Science graduate with a passion for Cyber Security specifically in SIEM
           
 </div>
 
-</td></tr></table>  
 
 
-<h1 align="center"></h1>
 
-<table  align="center"><tr><td valign="top" width="50%">
-<br>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/3837114/104152498-06fdad00-53e0-11eb-81fe-dcf318101b79.gif" align="center" height=""  />
-</div>  <br>
-  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanjunaid&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31y35je7sw7n7iz7tma2b4wgtoia&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" align="center" style="width: 100%" />
 
 </td></tr></table>
