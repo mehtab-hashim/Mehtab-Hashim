@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Ahsan Junaid</h1>
-<h3 align="center">Tech Enthusiast / Computer Scientist</h3>
+<h1 align="center">Hi 👋, I'm Mehtab Hashim</h1>
+<h3 align="center">Cybersecurity Enthusiast / Computer Scientist</h3>
 
-Computer Science graduate with a passion for Cyber Security and Application Development specifically in Security Operations such as Threat Analysis, Mitigation and Remediation, alongwith hands-on experience in Web and Application Development, Database Management. 
+Computer Science graduate with a passion for Cyber Security specifically in SIEM solutions like IBM Qradar, Wazuh, and ELK stack. MY expertise is in the deployment and administration of these SIEM solutions. 
 <h1 align="center"></h1>
 
 
-- 🔭 I’m currently working on setting up a **Cyber SOC Lab**
+- 🔭 I’m currently working as**IBM Qradar SIEM Administrator**
 
-- 🌱 I’m currently learning about **Cyber Security (SIEM / SOC) & Mobile App Dev**
+- 🌱 I’m currently learning about **Splunk and Sentinel SIEM**
 
 
 
